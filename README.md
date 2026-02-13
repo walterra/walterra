@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-walterra-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/walterra/)
 [![GitHub](https://img.shields.io/badge/GitHub-walterra-181717?style=flat-square&logo=github)](https://github.com/walterra)
 
-I'm into Data Visualization since 2003. Since 2017, I'm working as a UI developer at Elastic, contributing to various parts of [Kibana](https://github.com/elastic/kibana) including [Elastic Charts](https://github.com/elastic/elastic-charts). Before that I spend almost a decade working on visual social media analysis tools.
+I'm into Data Visualization since 2003. Since 2017, I'm working as a UI developer at Elastic, contributing to various parts of [Kibana](https://github.com/elastic/kibana) including [Elastic Charts](https://github.com/elastic/elastic-charts). Before that I spend almost a decade working on visual social media analysis tools. [More about me →](https://walterra.dev/about)
 
 ## 🚀 Open Source Projects
 
