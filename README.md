@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-walterra.dev-blue?style=flat-square)](https://walterra.dev)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@walterra.dev-00A8E8?style=flat-square)](https://bsky.app/profile/walterra.dev)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@walterra-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://indieweb.social/@walterra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-walterra-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/walterra/)
 [![GitHub](https://img.shields.io/badge/GitHub-walterra-181717?style=flat-square&logo=github)](https://github.com/walterra)
 
