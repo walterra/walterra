@@ -9,18 +9,23 @@ I'm into Data Visualization since 2003. Since 2017, I'm working as a UI develope
 
 ## 🚀 Open Source Projects
 
-- [**d3-milestones**](https://github.com/walterra/d3-milestones) - A d3 based timeline visualization library, my most popular personal OSS project with 180+ stars
-- [**eddo**](https://github.com/walterra/eddoapp) - GTD-inspired todo & time tracking app built with React and PouchDB/CouchDb
+- [**d3-milestones**](https://github.com/walterra/d3-milestones) - A d3 based timeline visualization library, my most popular personal OSS project with 196 stars
+  - [**kibana-milestones-vis**](https://github.com/walterra/kibana-milestones-vis) - Kibana plugin integration for `d3-milestones`
+  - [**react-milestones-vis**](https://github.com/walterra/react-milestones-vis) - React component wrapper for `d3-milestones`
+- [**eddo**](https://github.com/walterra/eddoapp) - A todo app with GTD heritage for developers and their AI coding agent.
 - [**doc2convo**](https://github.com/walterra/doc2convo) - Convert text documents into conversational audio files
 - [**node-html2img-render-server**](https://github.com/walterra/node-html2img-render-server) - A server for converting HTML to images with Playwright
 - [**node-es-transformer**](https://github.com/walterra/node-es-transformer) - nodejs based (re)index and data transformation library for Elasticsearch
 - [**atproto2elasticsearch**](https://github.com/walterra/atproto2elasticsearch) - Real-time pipeline streaming AT Protocol (Bluesky) firehose to Elasticsearch
 - [**jupyter2kibana**](https://github.com/walterra/jupyter2kibana) - A Workflow for Data Scientists to bring Jupyter Notebook Visualizations to Kibana Dashboards
 - [**COVID-19 Austria Visualizations**](https://walterra.github.io/covid-19/) - Automated data visualization for transparent COVID-19 reporting
+- [**agent-tools**](https://github.com/walterra/agent-tools) - Collections of helpers for agentic coding workflows
+- [**astro-photostream**](https://github.com/walterra/astro-photostream) - AstroJS photo stream integration with EXIF processing and geolocation handling
+- [**x2masto**](https://github.com/walterra/x2masto) - Collect X following data and generate Mastodon import candidates
+- [**bsky2masto**](https://github.com/walterra/bsky2masto) - Find followable Mastodon/Fediverse accounts from people you follow on Bluesky
+- [**shc2es**](https://github.com/walterra/shc2es) - CLI tools to collect, store, and visualize Bosch Smart Home Controller II data with Elasticsearch and Kibana
 
 ### Open Source Contributions
 
 - I run my [blog](https://walterra.dev/blog) using AstroJS and started contributing to its [Cactus theme](https://github.com/chrismwilliams/astro-theme-cactus).
 - Created the [Elasticsearch data loader](https://observablehq.observablehq.cloud/framework-example-loader-elasticsearch/) example for [Observable Framework](https://observablehq.com/framework/).
-
-
